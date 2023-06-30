@@ -1,0 +1,50 @@
+
+Numbers, RFC 4250, January 2006.
+
+     T. Ylonen and C. Lonvick, The Secure Shell (SSH) Protocol
+     Architecture, RFC 4251, January 2006.
+
+     T. Ylonen and C. Lonvick, The Secure Shell (SSH) Authentication
+     Protocol, RFC 4252, January 2006.
+
+     T. Ylonen and C. Lonvick, The Secure Shell (SSH) Transport Layer
+     Protocol, RFC 4253, January 2006.
+
+     T. Ylonen and C. Lonvick, The Secure Shell (SSH) Connection
+     Protocol, RFC 4254, January 2006.
+
+     J. Schlyter and W. Griffin, Using DNS to Securely Publish Secure
+     Shell (SSH) Key Fingerprints, RFC 4255, January 2006.
+
+     F. Cusack and M. Forssen, Generic Message Exchange Authentication
+     for the Secure Shell Protocol (SSH), RFC 4256, January 2006.
+
+     J. Galbraith and P. Remaker, The Secure Shell (SSH) Session Channel
+     Break Extension, RFC 4335, January 2006.
+
+     M. Bellare, T. Kohno, and C. Namprempre, The Secure Shell (SSH)
+     Transport Layer Encryption Modes, RFC 4344, January 2006.
+
+     B. Harris, Improved Arcfour Modes for the Secure Shell (SSH)
+     Transport Layer Protocol, RFC 4345, January 2006.
+
+     M. Friedl, N. Provos, and W. Simpson, Diffie-Hellman Group Exchange
+     for the Secure Shell (SSH) Transport Layer Protocol, RFC 4419, March
+     2006.
+
+     J. Galbraith and R. Thayer, The Secure Shell (SSH) Public Key File
+     Format, RFC 4716, November 2006.
+
+     D. Stebila and J. Green, Elliptic Curve Algorithm Integration in the
+     Secure Shell Transport Layer, RFC 5656, December 2009.
+
+     A. Perrig and D. Song, Hash Visualization: a New Technique to
+     improve Real-World Security, 1999, International Workshop on
+     Cryptographic Techniques and E-Commerce (CrypTEC '99).
+
+AUTHORS
+     OpenSSH is a derivative of the original and free ssh 1.2.12 release
+     by Tatu Ylonen.  Aaron Campbell, Bob Beck, Markus Friedl, Niels
+     Provos, Theo de Raadt and Dug Song removed many bugs, re-added newer
+     features and created OpenSSH.  Markus Friedl contributed the support
+     for SSH protocol versions 1.5 and 2.0.
